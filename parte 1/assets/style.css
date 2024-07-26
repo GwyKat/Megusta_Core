@@ -1,0 +1,35 @@
+/* BOX  */
+section{
+    width: 733px;
+    margin: 10px 0px;
+    border: 2px solid ;
+    font-size:smaller;
+    padding: 10px 20px;
+    background-color: #f4f4f4;
+    display: flex;
+    font-family: Arial, Helvetica, sans-serif;
+}
+/* BUTTONS*/
+.btn{
+    padding: 15px 0px 0px 90px;
+    /* row-gap: 10px; */
+}
+.btn> button{
+    width: 70px;
+    height: 30px;
+    border: none;
+    border-radius: 5px;
+
+}
+.cambianum>span {
+    color: #333333;
+    font-weight: bold;
+}
+.btn>.cambianum{
+    background-color:#f4f4f4 ;
+}
+.btn > .inclick{
+    background-color:#ffd700;
+    font-weight: bold;
+}
+
